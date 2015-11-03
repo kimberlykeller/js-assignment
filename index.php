@@ -5,7 +5,7 @@
 		<title>JS Assignment</title>
 	</head>
 	<body>
-		<div id ="mouse">
+		<div id ="mouse" onmouseover="mouseOver()">
 			<p>The Federation's gone; the Borg is everywhere! Flair is what marks the difference between artistry and mere competence. We finished our first sensor sweep of the neutral zone. We have a saboteur aboard. I guess it's better to be lucky than good.
 			Ensign Babyface! Earl Grey tea, watercress sandwiches... and Bularian canapés? Are you up for promotion? Commander William Riker of the Starship Enterprise. For an android with no feelings, he sure managed to evoke them in others.
 			Did you come here for something in particular or just general Riker-bashing?
