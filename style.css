@@ -1,3 +1,7 @@
 .dropzone {
 	background-color: lavender;
 }
+
+#draggable {
+	background-color: aquamarine;
+}
