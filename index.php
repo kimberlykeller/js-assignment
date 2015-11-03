@@ -3,6 +3,7 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>JS Assignment</title>
+		<script type="text/javascript" src="custom.js"> </script>
 	</head>
 	<body>
 		<div id ="mouse" onmouseover="mouseOver()">
